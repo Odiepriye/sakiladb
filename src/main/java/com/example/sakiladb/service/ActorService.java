@@ -62,12 +62,12 @@ public class ActorService {
     actor.setFilms(data.getFilm());
     return actorRepository.save(actor);
     }
-    public Actor updateActorByName(String fullName, ActorInput data) {
-        List<Actor> actor= actorRepository.findByFullNameIgnoreCase(fullName);
-        //if(actor.size() == 1){}else{}//do something
-        actor.getFirst().setFirstName(data.getFirstName());
-        actor.getFirst().setLastName(data.getLastName());
-        actor.getFirst().setFilms(data.getFilm());
-        return actorRepository.save(actor.getFirst());
-    }
+//    public Actor updateActorByName(String fullName, ActorInput data) {
+//        List<Actor> actor= actorRepository.findByFullNameIgnoreCase(fullName);
+//        //if(actor.size() == 1){}else{}//do something
+//        actor.getFirst().setFirstName(data.getFirstName());
+//        actor.getFirst().setLastName(data.getLastName());
+//        actor.getFirst().setFilms(data.getFilm());
+//        return actorRepository.save(actor.getFirst());
+//    }
 }
