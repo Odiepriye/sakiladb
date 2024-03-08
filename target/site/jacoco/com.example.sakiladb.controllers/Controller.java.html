@@ -14,9 +14,9 @@ import java.util.Optional;
 
 @RestController
 public class Controller {
-<span class="nc" id="L17">    public Controller(ActorService actorService) {</span>
-<span class="nc" id="L18">        this.actorService = actorService;</span>
-<span class="nc" id="L19">    }</span>
+<span class="fc" id="L17">    public Controller(ActorService actorService) {</span>
+<span class="fc" id="L18">        this.actorService = actorService;</span>
+<span class="fc" id="L19">    }</span>
     @Autowired
     private ActorService actorService;
     @GetMapping(&quot;/actors&quot;)
@@ -25,7 +25,7 @@ public class Controller {
     }
     @GetMapping(&quot;/actors/{id}&quot;)
     public Actor getActor(@PathVariable Short id) {
-<span class="nc" id="L28">        return actorService.getActor(id);</span>
+<span class="fc" id="L28">        return actorService.getActor(id);</span>
     }
     @GetMapping(&quot;/actors/lastName/{lastName}&quot;)
     public List&lt;Actor&gt; getActorByLastName(@PathVariable String lastName) {

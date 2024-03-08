@@ -9,17 +9,17 @@ import java.util.List;
 
 @Entity
 @Getter
-<span class="nc" id="L12">@Setter</span>
+<span class="pc" id="L12">@Setter</span>
 @Table(name = &quot;actor&quot;)
-<span class="nc" id="L14">public class Actor {</span>
+<span class="fc" id="L14">public class Actor {</span>
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = &quot;actor_id&quot;)
-<span class="nc" id="L18">    private short id;</span>
+<span class="fc" id="L18">    private short id;</span>
     @Column(name = &quot;first_name&quot;)
-<span class="nc" id="L20">    private String firstName;</span>
+<span class="fc" id="L20">    private String firstName;</span>
     @Column(name = &quot;last_name&quot;)
-<span class="nc" id="L22">    private String lastName;</span>
+<span class="fc" id="L22">    private String lastName;</span>
     @Formula(&quot;concat(first_name, ' ', last_name)&quot;)
 <span class="nc" id="L24">    private String fullName;</span>
     @ManyToMany

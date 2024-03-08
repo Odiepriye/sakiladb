@@ -1,5 +1,3 @@
-package com.example.sakiladb;
-
 import com.example.sakiladb.controllers.Controller;
 import com.example.sakiladb.entities.Actor;
 import com.example.sakiladb.service.ActorService;
