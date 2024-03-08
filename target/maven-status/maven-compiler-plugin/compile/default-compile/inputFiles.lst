@@ -1,0 +1,16 @@
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/service/ActorService.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/input/FilmInput.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/controllers/FilmController.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/entities/FilmActor.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/repositories/ActorRepository.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/input/ActorInput.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/repositories/PartialFilmRepository.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/entities/PartialFilm.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/entities/Actor.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/repositories/FilmActorRepository.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/entities/Film.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/SakiladbApplication.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/entities/PartialActor.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/controllers/Controller.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/repositories/PartialActorRepository.java
+/Users/odiepriye/Desktop/TSI_Projects/sakiladb/src/main/java/com/example/sakiladb/repositories/FilmRepository.java

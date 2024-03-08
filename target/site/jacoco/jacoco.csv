@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+sakiladb,com.example.sakiladb.service,ActorService,131,0,2,0,28,0,10,0,9,0
+sakiladb,com.example.sakiladb.entities,FilmActor,17,0,0,0,4,0,5,0,5,0
+sakiladb,com.example.sakiladb.entities,PartialActor,24,0,0,0,5,0,7,0,7,0
+sakiladb,com.example.sakiladb.entities,PartialFilm,17,0,0,0,4,0,5,0,5,0
+sakiladb,com.example.sakiladb.entities,Film,31,0,0,0,6,0,9,0,9,0
+sakiladb,com.example.sakiladb.entities,Actor,38,0,0,0,7,0,11,0,11,0
+sakiladb,com.example.sakiladb.controllers,Controller,46,0,0,0,11,0,9,0,9,0
+sakiladb,com.example.sakiladb.controllers,FilmController,111,0,12,0,29,0,12,0,6,0

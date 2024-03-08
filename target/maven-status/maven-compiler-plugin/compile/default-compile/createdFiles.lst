@@ -1,0 +1,16 @@
+com/example/sakiladb/repositories/PartialFilmRepository.class
+com/example/sakiladb/repositories/PartialActorRepository.class
+com/example/sakiladb/entities/FilmActor.class
+com/example/sakiladb/repositories/FilmActorRepository.class
+com/example/sakiladb/controllers/FilmController.class
+com/example/sakiladb/input/FilmInput.class
+com/example/sakiladb/service/ActorService.class
+com/example/sakiladb/controllers/Controller.class
+com/example/sakiladb/repositories/FilmRepository.class
+com/example/sakiladb/entities/PartialActor.class
+com/example/sakiladb/repositories/ActorRepository.class
+com/example/sakiladb/SakiladbApplication.class
+com/example/sakiladb/entities/PartialFilm.class
+com/example/sakiladb/entities/Film.class
+com/example/sakiladb/input/ActorInput.class
+com/example/sakiladb/entities/Actor.class
